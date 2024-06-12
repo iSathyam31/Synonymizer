@@ -26,12 +26,15 @@ Welcome to this Synonyms Generator! This application helps you find synonyms for
 
 ## Project Structure
 ```
-synonyms-generator/
+Synonymizer/
 │
-├── main.py
+├── app.py
 ├── requirements.txt
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── assets/
+    └── Synonym.png
+
 ```
 
 
@@ -40,7 +43,7 @@ synonyms-generator/
 ### 1. Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/synonyms-generator.git
+git clone https://github.com/iSathyam31/Synonymizer.git
 cd synonyms-generator
 ```
 ### 2. Create a Virtual Environment
